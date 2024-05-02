@@ -10,10 +10,26 @@
     width: 325px;
 }
 
+.botao-lilas {
+    background-color: #9353FF !important;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+.posicao{
+    top: 40%;
+}
+
 @media(min-width: 768px) {
 
     .div-novidades {
         width: 696px;
+    }
+
+        .posicao{
+        top:60%;
     }
 
 }
