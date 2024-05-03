@@ -1,6 +1,6 @@
 Códigos da formação *"Bootstrap 5: desenvolvimento de websites responsivos e atraentes"*,  desenvolvido pela ALURA na escola de Front-end. 
 <br>
-[Certificado do Curso - Em andamento]()
+[Certificado da Formação - Em andamento]()
 <br>
 
 <h2> Projetos desenvolvidos: </h2>
