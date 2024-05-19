@@ -11,7 +11,7 @@ Códigos da formação *"Bootstrap 5: desenvolvimento de websites responsivos e 
 
 <h3>Serenatto</h3>
 
-![image](![screencapture-127-0-0-1-5500-serenatto-projeto-index-html-2024-05-14-00_18_18](https://github.com/cahetterich/bootstrap5/assets/148469247/ead933f1-9b04-473f-b150-2d7b42b7ce89)
+![image](https://github.com/cahetterich/bootstrap5/assets/148469247/ead933f1-9b04-473f-b150-2d7b42b7ce89)
 
 
 ## Ferramentas utilizadas:
