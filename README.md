@@ -25,7 +25,7 @@ Códigos da formação *"Bootstrap 5: desenvolvimento de websites responsivos e 
 * Bootstrap 5
 
 
-<h3>Curso em andamento!</h3>
+<h3>Curso finalizado!</h3>
 
 | Curso | Certificado |
 | ------ | ------ |
